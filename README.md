@@ -3,7 +3,7 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SteliosMiskedakis)](https://www.linkedin.com/in/SteliosMiskedakis) [![Gmail Badge](https://img.shields.io/badge/-mstelios.py@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mstelios.py@gmail.com)](mailto:mstelios.py@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCSOLN_9T5kM6nHxLa-OBNrA)](https://www.youtube.com/channel/UCSOLN_9T5kM6nHxLa-OBNrA)
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://gr.linkedin.com/in/stelios-miskedakis-4a5326233?trk=people-guest_people_search-card)](https://gr.linkedin.com/in/stelios-miskedakis-4a5326233?trk=people-guest_people_search-card) [![Gmail Badge](https://img.shields.io/badge/-mstelios.py@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mstelios.py@gmail.com)](mailto:mstelios.py@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCSOLN_9T5kM6nHxLa-OBNrA)](https://www.youtube.com/channel/UCSOLN_9T5kM6nHxLa-OBNrA)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ClinkCode" alt="ClinkCode" /> </p>
 
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
